@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0f4c27c-0c6e-4f90-a67d-8a2f43ef0cd6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/davidguardia.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/app.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/containers/index.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/containers/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/index.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.ts" afterPath="$PROJECT_DIR$/src/main.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="retain-app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,7 +25,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
@@ -43,6 +33,16 @@
               <folding>
                 <element signature="e#0#62#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -114,6 +114,7 @@
         <option value="$PROJECT_DIR$/src/app/app.ts" />
         <option value="$PROJECT_DIR$/src/app/index.ts" />
         <option value="$PROJECT_DIR$/src/main.ts" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -308,12 +309,12 @@
       <option name="presentableId" value="Default" />
       <updated>1472250333505</updated>
       <workItem from="1472250339757" duration="529000" />
-      <workItem from="1472250889087" duration="1747000" />
+      <workItem from="1472250889087" duration="1894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2276000" />
+    <option name="totallyTimeSpent" value="2423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="911" y="23" width="1034" height="1053" extended-state="0" />
@@ -407,6 +408,14 @@
           <folding>
             <element signature="e#0#62#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
