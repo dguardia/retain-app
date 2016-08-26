@@ -7,7 +7,7 @@ import { Main } from './containers'
     ],
     template:`
     <div>
-        <main-container>    </main-container>    
+        <main-container></main-container>    
     </div>
 `
 })
