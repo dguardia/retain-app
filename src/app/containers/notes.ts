@@ -1,3 +1,7 @@
-/**
- * Created by davidguardia on 8/26/16.
- */
+import { Component } from '@angular/core';
+
+@Component({
+
+})
+
+export class Notes{}

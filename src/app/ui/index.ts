@@ -1,3 +1,1 @@
-/**
- * Created by davidguardia on 8/26/16.
- */
+export { AppBar } from './app-bar';
